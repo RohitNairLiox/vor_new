@@ -88,6 +88,5 @@ if (td_util::get_option('tds_footer') != 'no') {
 </div><!--close td-outer-wrap-->
 
 <?php wp_footer(); ?>
-
 </body>
 </html>

@@ -1,0 +1,18 @@
+/* TEAM */
+	UI Developer and Web Designer: Rohit Nair
+	Contact: puthenrohit@gmail.com
+	GitHub: https://github.com/rohitnairliox
+	From: Mumbai, India
+
+	Graphic Designer: Aashima Thakran
+	Contact: aashimathakran94@gmail.com
+	From: Delhi, India
+
+/* THANKS */
+	(First)Assistance: Prathamesh Gharat
+	Contact: pratham@kraftpixel.in
+	From: Mumbai, India
+	
+	Assistance: Abhishek Gharat
+	Contact: abhi@kraftpixel.in
+	From: Mumbai, India
