@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Rohit Nair">
     <link type="text/plain" rel="author" href="humans.txt">
+    <meta name="robots" content="nofollow" />
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
     <?php
     wp_head(); /** we hook up in wp_booster @see td_wp_booster_functions::hook_wp_head */
